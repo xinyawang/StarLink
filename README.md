@@ -3,8 +3,11 @@ Starlink: ReactJS based Starlink Trajectory Visualization
 Realized a visualization dashboard for users to track satellites in real-time based on geo-location
 
 1 Utilized ReactJS and D3 to produce dynamic, interactive data visualizations for locating satellites.
+
 2 Built location, altitude, and duration-based selector to refine satellite search.
+
 3 Animated selected satellite paths on a world map using D3 to improve the user friendness.
+
 4 Deployed the dashboard to Amazon Web Service (AWS) for demonstration.
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
